@@ -1,0 +1,11 @@
+Convolution Neural Network 
+
+AIM : To classify the given  maize plant leaf image as disease struck or healthy
+
+CLASSES :  
+
+1. Common Rust
+2. Grey Spot Disease
+3. Healthy
+
+Accuracy : 99%
